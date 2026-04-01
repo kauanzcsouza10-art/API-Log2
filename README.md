@@ -6,7 +6,7 @@ Todo o processo foi conduzido dentro de um contexto educacional que simula desaf
 # 📑 Índice
 | Seção | Link |
 |------|------|
-| 🎯 Objetivo do Projeto | [Clique aqui](#Objetivo-do-Projeto) |
+| 🎯 Objetivo do Projeto | [Clique aqui](#objetivo-do-projeto) |
 | 👥 Equipe | [Clique aqui](#equipe) |
 | 🗂 Backlog do Produto | [Clique aqui](#backlog-do-produto) |
 | 🛠 Tecnologias Utilizadas | [Clique aqui](#tecnologias-utilizadas) |
