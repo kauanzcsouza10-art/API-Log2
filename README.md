@@ -7,7 +7,7 @@ Todo o processo foi conduzido dentro de um contexto educacional que simula desaf
 | Seção | Link |
 |------|------|
 | 🎯 Objetivo do Projeto | [Clique aqui](#objetivo-do-projeto) |
-| 👥 Equipe | [Clique aqui](#Equipe) |
+| 👥 Equipe | [Clique aqui](#equipe) |
 | 🗂 Backlog do Produto | [Clique aqui](#backlog-do-produto) |
 | 🛠 Tecnologias Utilizadas | [Clique aqui](#tecnologias-utilizadas) |
 | 📅 Registro das Sprints | [Clique aqui](#registro-das-sprints) |
