@@ -3,6 +3,8 @@
 Projeto desenvolvido com base na metodologia ágil SCRUM, promovendo o desenvolvimento de habilidades essenciais como Proatividade, Autonomia, Colaboração, Gestão de Tempo e Entrega Contínua de Resultados.
 Todo o processo foi conduzido dentro de um contexto educacional que simula desafios reais encontrados na área de Análise de Dados e Business Intelligence.
 
+
+
 # 📑 Índice
 | Seção | Link |
 |------|------|
@@ -13,10 +15,13 @@ Todo o processo foi conduzido dentro de um contexto educacional que simula desaf
 | 📅 Registro das Sprints | [Clique aqui](#registro-das-sprints) |
 
 
+
 # 📊 Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+
+
 
 # 👥 Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -38,6 +43,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Versionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
+
 
 
 ## 🛠 Tecnologias Utilizadas
@@ -63,8 +69,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 
-
-  
 # 📅 Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
