@@ -58,6 +58,13 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 
+### **Tecnologias Principais**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)
+
+
 ---
 
 # 🗂 Backlog do Produto
