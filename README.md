@@ -1,8 +1,6 @@
 # 📌 Aprendizado por Projeto Integrado - SafeFlow
 
-Projeto desenvolvido com base na metodologia ágil SCRUM, promovendo o desenvolvimento de habilidades essenciais como Proatividade, Autonomia, Colaboração, Gestão de Tempo e Entrega Contínua de Resultados.
-Todo o processo foi conduzido dentro de um contexto educacional que simula desafios reais encontrados na área de Análise de Dados e Business Intelligence.
-
+Entrega de uma interface interativa que reúne os principais dados sobre movimentação de cargas perigosas, a partir das bases do IBAMA. O produto permitirá uma análise simplificada e intuitiva das informações essenciais como volume movimentado, mapeamento Origem-Destino e aplicação de filtros que enriqueçam a especificidade da análise. Intende-se também identificar as principais empresas movimentadoras destas cargas e a identificação específica dos principais tipos de produtos movimentados.
 
 
 # 📑 Índice
@@ -18,9 +16,12 @@ Todo o processo foi conduzido dentro de um contexto educacional que simula desaf
 
 
 # 📊 Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+Este projeto tem como objetivo a entrega de um produto de visualização de dados, visando:
+* Centralizar dados de movimentação de cargas perigosas;
+* Integração de informações que permitam análise aprofundada;
+* Mapeamento de Origens-Destinos das cargas;
+* Filtros que especifiquem e enriqueçam a análise;
+* Facilitar as fiscalização e gestão de um alto volume de dados num painel interativo.
 
 
 
@@ -34,6 +35,22 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | Maria Vitória Gonçalves                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-vit%C3%B3ria-macedo-gon%C3%A7alves-87b619347/?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/maviiessxy-dotcom/info_log)   |
 |  Team Member  | Davi Pais       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/davi-pais-340989359) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DaviPaisKitada)    
 |  Team Member  | Mariana Leal       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mariana-leal-a708b8335) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marileal071415-create)    
+
+
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1    | Alta       | Como analista do IPEM, quero visualizar dados confiáveis sobre rotas de cargas perigosas para facilitar a gestão de um alto volume de dados.                                                    | 8          | 1      |
+| 2    | Alta       | Como fiscal do IPEM, quero identificar as principais Origem-Destino para visuaizar áreas de maior risco.                                                                    | 13          | 1      |
+| 3    | Alta       | Como analista do IPEM, quero visualizar a evolução temporal dos dados para identificar padrões e fazer previsões.                                               | 8          | 1      |
+| 4   | Média      | Como analista do IPEM, quero filtros funcionais básicos para visualizar navegar entre dados mais relevantes.                                                                                                                                                     | 13        | 1    |
+| 4    | Baixa      | Como usuário da interface, quero visualizar as bandeiras dos lugares selecionados para facilitar a ilustração.                                                                                                                                                     | 8        | 1    |
+| 5    | Média      | Como usuário da interface, quero várias páginas para navegar entre informações mais específicas da análise.                                                                                                                                                     | 8        | 2    |
+| 6    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 7    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 8    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 9    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+
 
 
 
