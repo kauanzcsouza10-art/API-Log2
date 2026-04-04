@@ -3,6 +3,7 @@
 Entrega de uma interface interativa que reúne os principais dados sobre movimentação de cargas perigosas, a partir das bases do IBAMA. O produto permitirá uma análise simplificada e intuitiva das informações essenciais como volume movimentado, mapeamento Origem-Destino e aplicação de filtros que enriqueçam a especificidade da análise. Intende-se também identificar as principais empresas movimentadoras destas cargas e a identificação específica dos principais tipos de produtos movimentados.
 
 
+
 # 📑 Índice
 | Seção | Link |
 |------|------|
@@ -48,12 +49,14 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 * Facilitar as fiscalização e gestão de um alto volume de dados num painel interativo.
 
 
+
 ## 🛠 Tecnologias Utilizadas
 
 * Jira Software
 * Power BI
 * Microsoft Excel
 * Python (Visual Studio Code)
+
 
 
 # 🗂 Backlog do Produto
