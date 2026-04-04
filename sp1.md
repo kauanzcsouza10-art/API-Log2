@@ -22,16 +22,17 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Analista do IPEM:** Analisa e administra uma carga alta de dados e terá estes dados centralizados
+  numa interface sólida e interativa.  
+- **Fiscal do IPEM:** Gerencia esforços de fiscalização e poderá mapear áreas e produtos de maior atenção. 
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como analista do IPEM, quero uma interface interativa com os principais dados de rotas de cargas perigosas para sereme analisados e elaborar panejamentos a partir disso.        | Alta       | 8 pontos   |
+| US2 | Como fiscal do IPEM, quero uma interface que identifique as principais Origem-Destino das cargas para visuaizar áreas de maior risco.         | Média      | 13 pontos   |
 
 ---
 
@@ -44,23 +45,26 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize os dados centralizados numa interface interativa.  
+- O sistema deve registrar os dados essenciais sobre as rotas, como volume transportado, tipos de carga e principais ODs.  
+- Métricas coletadas: layout claro, tempo razoável de resposta ao usuário, cruzamento de dados intuitivo e simples, dados confiáveis que façam sentido entre si.
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP
+  - Exigência estabelecidade: mínimo 3 usuários diferentes.
+- Feedback qualitativo (positivo/negativo)
+  - Registro do feedback: em aguardo.
+- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)
+  -  Registro do feedback: em aguardo.
 
 ---
 
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Expansão de funcionalidades para próximo incremento   
 
 ---
 
