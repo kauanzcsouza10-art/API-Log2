@@ -37,10 +37,12 @@
 ---
 
 ## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| Sprint | Entregas Principais                          | Status       |
+|--------|----------------------------------------------|-------------|
+| 01     | Unificação e tratamento dos dados, construção do dashboard inicial | Em andamento |
+| 01     | Edição visual e ajustes finais do dashboard | Em andamento  |
+| 01     | Python                                       | Em andamento  |
+| 01     | Power BI                                     | Em andamento  |
 
 ---
 
