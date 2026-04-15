@@ -75,9 +75,10 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 | 4    | Baixa      | Como usuário da interface, quero visualizar as bandeiras dos lugares selecionados para facilitar a ilustração.                                                                                                                                                     | 8        | 1    |
 | 5    | Média      | Como usuário da interface, quero várias páginas para navegar entre informações mais específicas da análise.                                                                                                                                                     | 8        | 2    |
 | 6    | Alta      | Quais as principais cargar movimentadas?                                                                                                                                                     | ...        | ...    |
-| 7    | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 8    | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 9    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 7    | Alta     | Quais os principais modais utilizados?                                                                                                                                                     | ...        | ...    |
+| 8    | Alta      | Quais as principais origens e destinos?                                                                                                                                                    | ...        | ...    |
+| 9    | Alta      | Como foi a movimentação ao longo do tempo?                                                                                                                                                    | ...        | ...    |
+| 10   | Alta     | Quais as principais empresas movimentadoras de cargas perigosas comdeclaração realizada | ---    | ---   |
 | 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
 
 ---
