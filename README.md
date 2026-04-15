@@ -68,18 +68,22 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como analista do IPEM, quero visualizar dados confiáveis sobre rotas de cargas perigosas para facilitar a gestão de um alto volume de dados.                                                    | 8          | 1      |
-| 2    | Alta       | Como fiscal do IPEM, quero identificar as principais Origem-Destino para visuaizar áreas de maior risco.                                                                    | 13          | 1      |
-| 3    | Alta       | Como analista do IPEM, quero visualizar a evolução temporal dos dados para identificar padrões e fazer previsões.                                               | 8          | 1      |
-| 4   | Média      | Como analista do IPEM, quero filtros funcionais básicos para visualizar navegar entre dados mais relevantes.                                                                                                                                                     | 13        | 1    |
-| 4    | Baixa      | Como usuário da interface, quero visualizar as bandeiras dos lugares selecionados para facilitar a ilustração.                                                                                                                                                     | 8        | 1    |
-| 5    | Média      | Como usuário da interface, quero várias páginas para navegar entre informações mais específicas da análise.                                                                                                                                                     | 8        | 2    |
-| 6    | Alta      | Quais as principais cargar movimentadas?                                                                                                                                                     | ...        | ...    |
-| 7    | Alta     | Quais os principais modais utilizados?                                                                                                                                                     | ...        | ...    |
-| 8    | Alta      | Quais as principais origens e destinos?                                                                                                                                                    | ...        | ...    |
-| 9    | Alta      | Como foi a movimentação ao longo do tempo?                                                                                                                                                    | ...        | ...    |
-| 10   | Alta     | Quais as principais empresas movimentadoras de cargas perigosas comdeclaração realizada | ---    | ---   |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+|  1    | Alta       | Quais as principais cargas movimentadas?       | 8      | 1    |
+|  2    |            | Quais ao tipo de cargas mais transportadas?    | 13     | 1    |
+|  3    |            | Quais cargas tem o maior grau de risco ?       | 8      | 1    |
+|  4    | Alta       | Quais os principais modais utilizados?          | 13     | 1    |
+|  5    |            | Quais modelos de caminhões mais utilizados?    | 8      | 1    |
+|  6    |            | Quais os principais meios de transportes utilizados?  | ...        | ...    |
+|  7    | Alta       | Quais os principais origens e destinos?         | ...        | ...    |
+|  8    | Alta       | Quais as principais rodovias utilizadas?      | ...        | ...    |
+|  9    | Alta       | Quais cidades mais recebem cargas?         | ...        | ...    |
+|  10   | Alta       | Quais cidades fazem o transporte de carga?          | ---    | ---   |
+|  11   | Baixa      | Como foi a evolução da movimentação ao longo do tempo?     | 2          | 3      |
+|  12   |            | Quais as principais empresas movimentadoras de cargas perigosas com declaração realizada?  | ---  | ---  |
+|  13   |            | Quais as principais empresas movimentadoras de cargas perigosas com declaração realizada?  | ---  | ---  |
+|  14   |            | Dentre todas as empresas quais fazem o transporte mais seguro?   | ---  | --- |
+
+
 
 ---
 
