@@ -48,9 +48,8 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário visualize os dados centralizados numa interface interativa.  
-- O sistema deve registrar os dados essenciais sobre as rotas, como volume transportado, tipos de carga e principais ODs.  
-- Métricas coletadas: layout claro, tempo razoável de resposta ao usuário, cruzamento de dados intuitivo e simples, dados confiáveis que façam sentido entre si.
+- O MVP deve permitir ao usuário visualizar os dados de forma centralizada em uma interface interativa. O sistema deve apresentar informações essenciais sobre as rotas, como volume transportado, tipos de carga e principais origens e destinos (ODs).
+- Interface clara, tempo de resposta adequado, cruzamento de dados intuitivo e confiabilidade das informações.
 
 ---
 
