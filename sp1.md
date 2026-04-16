@@ -14,11 +14,11 @@
 ## 📝 Descrição da Solução
   
 - Funcionalidades principais incluídas
-  - Uma página inicial limpa com gráficos de colunas e valores claros incluindo valores transportados, regiões, estados e municípios de Origem-Destino entre outras informações essenciais.
+  - O Safe Flow apresenta uma página inicial com gráficos e indicadores claros sobre o transporte de cargas perigosas, incluindo volumes, regiões e origem-destino.
 - Limitações conhecidas
-  - Aplicação de filtros mais específicos e confiáveis para uma gestão aprofundada das informações.
-- Escopo reduzido (somente o essencial para validar a ideia)
-  - Escopo: a página inicial de um dashboard interativo com as informações básicas.
+  - O sistema ainda possui limitações relacionadas à aplicação de filtros mais específicos e refinados, o que pode restringir análises mais aprofundadas e detalhadas das informações.
+- Escopo reduzido
+  - O escopo do MVP está concentrado no desenvolvimento da página inicial de um dashboard interativo, contemplando apenas as informações essenciais necessárias para validação da proposta e do valor do projeto.
 
 ---
 
