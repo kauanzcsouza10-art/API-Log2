@@ -45,24 +45,6 @@ Necessidades e tarefas atendidas: Necessita de dados organizados, consolidados e
 Descrição: Órgão responsável pela fiscalização, regulamentação e controle de atividades relacionadas a transporte e comercialização, especialmente envolvendo cargas sensíveis ou perigosas.  
 Necessidades e tarefas atendidas: Precisa de uma plataforma que centralize dados confiáveis e atualizados, permitindo monitoramento eficiente das operações, identificação de padrões e suporte à tomada de decisão em nível estratégico e operacional.
 
-</p>
-
-<p align="justify">
-
-* **Analista do IPEM**  
-Descrição: Profissional responsável pela análise de grandes volumes de dados relacionados ao transporte e movimentação de cargas.  
-Necessidades e tarefas atendidas: Necessita de acesso a dados estruturados e centralizados em uma interface interativa, que facilite a análise, geração de relatórios e identificação de tendências, reduzindo o tempo gasto com processamento manual de informações.
-
-</p>
-
-<p align="justify">
-
-* **Fiscal do IPEM**  
-Descrição: Responsável pela execução das atividades de fiscalização em campo, garantindo conformidade com normas e regulamentos.  
-Necessidades e tarefas atendidas: Precisa identificar rapidamente regiões, empresas e tipos de cargas com maior risco ou irregularidade, permitindo direcionar ações de fiscalização de forma mais eficiente e estratégica.
-
-</p> 
-
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
