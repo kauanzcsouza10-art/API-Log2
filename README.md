@@ -7,16 +7,22 @@ Entrega de uma interface interativa que reúne os principais dados sobre movimen
 # 📑 Índice
 | Seção | Link |
 |------|------|
-| 📊 Projeto | [Clique aqui](#Projeto (API)) |
-| 👥 Equipe | [Clique aqui](#Equipe) |
-| 🎯 Objetivo do Projeto | [Clique aqui](#Objetivo-do-Projeto) |
-| 🛠 Tecnologias Utilizadas | [Clique aqui](#Tecnologias-Utilizadas) |
-| 🗂 Backlog do Produto | [Clique aqui](#Backlog-do-Produto) |
-| 📅 Registro das Sprints | [Clique aqui](#Registro-das-Sprints) ||
+| 📊 Projeto | [Clique aqui](#projeto) |
+| 👥 Equipe | [Clique aqui](#equipe) |
+| 🎯 Objetivo do Projeto | [Clique aqui](#objetivo-do-projeto) |
+| 🛠 Tecnologias Utilizadas | [Clique aqui](#tecnologias-utilizadas) |
+| 🗂 Backlog do Produto | [Clique aqui](#backlog-do-produto) |
+| 📅 Registro das Sprints | [Clique aqui](#registro-das-sprints) |
 
 ---
 
-# 📊 Projeto (API) 
+<a name="projeto"></a>
+
+
+
+# 📊 Projeto (API)
+
+
 Este projeto tem como objetivo a entrega de um produto de visualização de dados, visando:
 * Centralizar dados de movimentação de cargas perigosas;
 * Integração de informações que permitam análise aprofundada;
@@ -26,7 +32,12 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 
 ---
 
+<a name="equipe"></a>
+
+
+
 # 👥 Equipe
+
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Ana Clara Dias         | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/ana-clara-dias-de-souza-927431179) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AninhaDias)   |
@@ -39,7 +50,12 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 
 ---
 
+<a name="objetivo-do-projeto"></a>
+
+
+
 # 🎯 Objetivo do Projeto
+
 Este projeto tem como objetivo a entrega de um produto de visualização de dados, visando:
 * Centralizar dados de movimentação de cargas perigosas;
 * Integração de informações que permitam análise aprofundada;
@@ -49,7 +65,12 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+<a name="tecnologias-utilizadas"></a>
+
+
+
+# 🛠 Tecnologias Utilizadas
+
 
 ![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
@@ -64,7 +85,12 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 
 ---
 
+<a name="backlog-do-produto"></a>
+
+
+
 # 🗂 Backlog do Produto
+
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
@@ -87,7 +113,12 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 
 ---
 
+<a name="registro-das-sprints"></a>
+
+
+
 # 📅 Registro das Sprints
+
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
