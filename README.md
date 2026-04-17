@@ -92,22 +92,22 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 # 🗂 Backlog do Produto
 
 
-| Rank | Prioridade | Perguntas | User Story |                                                                                                                                           | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-|  1    | Alta       | Quais as principais cargas movimentadas?             | 7      | 1    |
-|  2    |    Media   | Quais as tipo de cargas mais transportadas?          | 5     | 1    |
-|  3    |    Media   | Quais cargas tem o maior grau de risco ?             | 8      | 1    |
-|  4    | Alta       | Quais os principais modais utilizados?               | 8     | 1    |
-|  5    |    Baixa   | Quais modelos de caminhões mais utilizados?          | 4      | 1    |
-|  6    |    Baixa   | Quais os principais meios de transportes utilizados? | 5        | ...    |
-|  7    | Alta       | Quais os principais origens e destinos?              | 7        | ...    |
-|  8    |    Media   | Quais as principais rodovias utilizadas?             | 8        | ...    |
-|  9    |    Baixa        | Quais cidades mais recebem cargas?              | 4        | ...    |
-|  10   |     BAixa       | Quais cidades fazem o transporte de carga?       | 4    | ---   |
-|  11   | Alta       | Como foi a evolução da movimentação ao longo do tempo?     | 8          | 3      |
-|  12   |     Alta   | Quais as principais empresas movimentadoras de cargas perigosas com declaração realizada?  | 6  | ---  |
-|  13   |    Media   | Qual empresa é responsavel pelo transporte no Vale do Paraiba  |  7   |  ---   |
-|  14   |     Alta      | Dentre todas as empresas quais fazem o transporte mais seguro?   | 8  | --- |
+| Rank | Prioridade | Pergunta | User Story | Estimativa | Sprint |
+|------|------------|----------|-----------|------------|--------|
+| 1 | Alta | Quais as principais cargas movimentadas? | Como cliente, quero visualizar as principais cargas movimentadas para identificar os produtos mais relevantes no transporte. | 7 | 1 |
+| 2 | Média | Quais os tipos de cargas mais transportadas? | Como cliente, quero identificar os tipos de cargas mais transportadas para entender os padrões logísticos. | 5 | 1 |
+| 3 | Média | Quais cargas têm o maior grau de risco? | Como cliente, quero visualizar quais cargas possuem maior grau de risco para avaliar a periculosidade do transporte. | 8 | 1 |
+| 4 | Alta | Quais os principais modais utilizados? | Como cliente, quero identificar os principais modais utilizados para entender os meios de transporte mais recorrentes. | 8 | 1 |
+| 5 | Baixa | Quais modelos de caminhões são mais utilizados? | Como cliente, quero visualizar os modelos de caminhões mais utilizados para entender a operação logística. | 4 | 1 |
+| 6 | Baixa | Quais os principais meios de transporte utilizados? | Como cliente, quero identificar os principais meios de transporte utilizados para análise geral da logística. | 5 | 2 |
+| 7 | Alta | Quais são as principais origens e destinos? | Como cliente, quero visualizar as principais origens e destinos das cargas para compreender os fluxos logísticos. | 7 | 2 |
+| 8 | Média | Quais as principais rodovias utilizadas? | Como cliente, quero identificar as principais rodovias utilizadas para entender as rotas mais frequentes. | 8 | 2 |
+| 9 | Baixa | Quais cidades mais recebem cargas? | Como cliente, quero visualizar quais cidades mais recebem cargas para identificar polos logísticos. | 4 | 3 |
+| 10 | Baixa | Quais cidades realizam transporte de carga? | Como cliente, quero identificar quais cidades realizam transporte de carga para entender a distribuição logística. | 4 | 3 |
+| 11 | Alta | Como foi a evolução da movimentação ao longo do tempo? | Como cliente, quero analisar a evolução da movimentação ao longo do tempo para identificar tendências. | 8 | 3 |
+| 12 | Alta | Quais as principais empresas movimentadoras de cargas perigosas? | Como cliente, quero identificar as principais empresas que movimentam cargas perigosas para entender o mercado. | 6 | 3 |
+| 13 | Média | Qual empresa é responsável pelo transporte no Vale do Paraíba? | Como cliente, quero identificar qual empresa é responsável pelo transporte no Vale do Paraíba para análise regional. | 7 | 3 |
+| 14 | Alta | Quais empresas realizam o transporte mais seguro? | Como cliente, quero identificar quais empresas realizam o transporte mais seguro para apoiar decisões estratégicas. | 8 | 3 |
 
 
 
