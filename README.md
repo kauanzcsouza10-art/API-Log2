@@ -66,7 +66,7 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 
 # 🗂 Backlog do Produto
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+| Rank | Prioridade | User Story| Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 |  1    | Alta       | Quais as principais cargas movimentadas?             | 7      | 1    |
 |  2    |    Media   | Quais as tipo de cargas mais transportadas?          | 5     | 1    |
