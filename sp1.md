@@ -24,16 +24,44 @@
 ## 👥 Personas / Usuários-Alvo
 
 <p align="justify">
- 
-* jean: Descrição: Cliente e avaliadores do projeto, acompanhando o desenvolvimento da plataforma de BI para o comércio exterior paulista. Necessidades e tarefas atendidas: É necessário que os alunos entreguem uma solução bem documentada, funcional e aderente aos requisitos ágeis, garantindo que o aprendizado e a aplicação prática de competências logísticas e de análise de dados sejam oferecidos.
 
- <p align="justify">
-  
-* Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio exterior. Necessidades e tarefas atendidas: Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, atualmente os dados estão dispersos e desativados manual de esforço para análise.
-  
-- **Analista do IPEM:** Analisa e administra uma carga alta de dados e terá estes dados centralizados
-  numa interface sólida e interativa.  
-- **Fiscal do IPEM:** Gerencia esforços de fiscalização e poderá mapear áreas e produtos de maior atenção. 
+* **Jean ( Cliente)**  
+Descrição:  cliente , responsáveis por acompanhar o desenvolvimento da solução de BI.  
+Necessidades e tarefas atendidas: Espera uma solução bem estruturada, funcional e alinhada às metodologias ágeis, demonstrando a aplicação prática de conceitos de logística e análise de dados, além de clareza na apresentação das informações e documentação adequada do projeto.
+
+</p>
+
+<p align="justify">
+
+* **Marcus Nascimento (Cliente)**  
+Descrição: Profissional interessado no desempenho do comércio exterior e na análise de dados logísticos para suporte estratégico.  
+Necessidades e tarefas atendidas: Necessita de dados organizados, consolidados e apresentados de forma visual e intuitiva, permitindo análises rápidas e assertivas. Atualmente enfrenta dificuldades devido à dispersão das informações e ao esforço manual necessário para interpretação dos dados.
+
+</p>
+
+<p align="justify">
+
+* **Gestor Público – IPEM )**  
+Descrição: Órgão responsável pela fiscalização, regulamentação e controle de atividades relacionadas a transporte e comercialização, especialmente envolvendo cargas sensíveis ou perigosas.  
+Necessidades e tarefas atendidas: Precisa de uma plataforma que centralize dados confiáveis e atualizados, permitindo monitoramento eficiente das operações, identificação de padrões e suporte à tomada de decisão em nível estratégico e operacional.
+
+</p>
+
+<p align="justify">
+
+* **Analista do IPEM**  
+Descrição: Profissional responsável pela análise de grandes volumes de dados relacionados ao transporte e movimentação de cargas.  
+Necessidades e tarefas atendidas: Necessita de acesso a dados estruturados e centralizados em uma interface interativa, que facilite a análise, geração de relatórios e identificação de tendências, reduzindo o tempo gasto com processamento manual de informações.
+
+</p>
+
+<p align="justify">
+
+* **Fiscal do IPEM**  
+Descrição: Responsável pela execução das atividades de fiscalização em campo, garantindo conformidade com normas e regulamentos.  
+Necessidades e tarefas atendidas: Precisa identificar rapidamente regiões, empresas e tipos de cargas com maior risco ou irregularidade, permitindo direcionar ações de fiscalização de forma mais eficiente e estratégica.
+
+</p> 
 
 ---
 
