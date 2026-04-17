@@ -22,6 +22,15 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
+
+<p align="justify">
+ 
+* jean: Descrição: Cliente e avaliadores do projeto, acompanhando o desenvolvimento da plataforma de BI para o comércio exterior paulista. Necessidades e tarefas atendidas: É necessário que os alunos entreguem uma solução bem documentada, funcional e aderente aos requisitos ágeis, garantindo que o aprendizado e a aplicação prática de competências logísticas e de análise de dados sejam oferecidos.
+
+ <p align="justify">
+  
+* Marcus Nascimento: Descrição: Cliente, interessado no desempenho do comércio exterior. Necessidades e tarefas atendidas: Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, atualmente os dados estão dispersos e desativados manual de esforço para análise.
+  
 - **Analista do IPEM:** Analisa e administra uma carga alta de dados e terá estes dados centralizados
   numa interface sólida e interativa.  
 - **Fiscal do IPEM:** Gerencia esforços de fiscalização e poderá mapear áreas e produtos de maior atenção. 
